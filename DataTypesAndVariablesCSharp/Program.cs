@@ -10,6 +10,7 @@ namespace DataTypesAndVariablesCSharp
 
             part2();
 
+            part3();
         }
 
         static void part1()
@@ -164,7 +165,8 @@ namespace DataTypesAndVariablesCSharp
 
         static void part3()
         {
-            tring drink = "wine";
+            //part3.1
+            string drink = "wine";
             string madTeaParty = $"\"Have some {drink},\" the March Hare said in an encouraging tone. \nAlice looked all round the table, but there was nothing on it but tea.\n\"I don't see any {drink},\" she remarked.\n\"There isn't any,\" said the March Hare.";
 
             int storyLength = madTeaParty.Length;
@@ -176,6 +178,93 @@ namespace DataTypesAndVariablesCSharp
             Console.WriteLine(madTeaParty.Substring(findMarchHare));
             Console.WriteLine($"This scene is {storyLength} long.\n");
             Console.WriteLine($"The term we're looking for is {toFind} and is located at index {findMarchHare}.");
+
+            //part3.2
+            // First string variable
+            string firstSentence = "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.";
+            // Second string variable
+            string firstSpeech = "\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"";
+
+            // Print variable and newline
+            Console.WriteLine(firstSentence);
+            Console.WriteLine("\n");
+            Console.WriteLine(firstSpeech);
+
+            //part3.3
+            //Declare the variables
+            string beginning = "howdy";
+            string middle = "Yall";
+            string end = "lol";
+
+            // Concatenate the string and the variables
+            string story = beginning + middle + end;
+
+            // Print the story to the console 
+            Console.WriteLine(story);
+
+            //part3.4
+            // Declare the variables
+            string beginning2 = "Once upon a time,";
+            string middle2 = "The kid climbed a tree";
+            string end2 = "Everyone lived happily ever after.";
+
+            // Interpolate the string and the variables
+            string story2 = $"{beginning2}{middle2}{end2}";
+
+            // Print the story to the console 
+            Console.WriteLine(story2);
+
+            //part3.5
+            // Create password
+            string password = "a92301j2add";
+
+            // Get password length
+            int passwordLength = password.Length;
+
+            // Check if password uses symbol
+            int passwordCheck = password.IndexOf("!");
+
+            // Print results
+            Console.WriteLine($"The user password is {password}. Its length is {passwordLength} and it receives a {passwordCheck} check.");
+
+            //part3.6
+            // User Name
+            string name = "Farhad Hesam Abbasi";
+
+            // Get first letter
+            int charPosition = name.IndexOf("F");
+            char firstLetter = name[charPosition];
+
+            // Get last name
+            int charPosition2 = name.IndexOf("Abbasi");
+            string lastName = name.Substring(charPosition2);
+
+            // Print results
+            Console.WriteLine($"{firstLetter} {lastName}");
+
+            //part3.7
+            // Script line
+            string script = "Close on a portrait of the HANDSOME PRINCE -- as the BEAST'S giant paw slashes it.";
+
+            // Get camera directions
+            int charPosition3 = script.IndexOf("Close");
+            int length = "Close on".Length;
+            string cameraDirections = script.Substring(charPosition3, length);
+
+            // Get scene description
+            charPosition3 = script.IndexOf("a portrait");
+            string sceneDescription = script.Substring(charPosition3);
+
+            // Make camera directions uppercase
+            cameraDirections = cameraDirections.ToUpper();
+
+            // Make scene description lowercase
+            sceneDescription = sceneDescription.ToLower();
+
+            // Print results
+            Console.WriteLine($"{cameraDirections} {sceneDescription}");
+
+            //test
         }
 
 
