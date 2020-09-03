@@ -1,0 +1,12 @@
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.exe
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.deps.json
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.runtimeconfig.json
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.runtimeconfig.dev.json
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.dll
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\bin\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.pdb
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.AssemblyInfoInputs.cache
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.AssemblyInfo.cs
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.dll
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.pdb
+C:\Users\rudiak_gaven\source\repos\DataTypesAndVariablesCSharp\DataTypesAndVariablesCSharp\obj\Debug\netcoreapp3.1\DataTypesAndVariablesCSharp.genruntimeconfig.cache
